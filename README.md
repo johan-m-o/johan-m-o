@@ -1,4 +1,4 @@
-Hi, I'm Johan and I am a soon to be math and technology teacher that loves to tinker. This is where you'll find my projects.
+Hi, I'm Johan and I am a soon to be math and technology teacher that loves to tinker. This is where you'll find some of my projects.
 
 A list of ideas and projects in progress can be found here:  
 https://github.com/johan-m-o/ToDoList
