@@ -3,4 +3,7 @@ Hi, I'm Johan and I am a soon to be math and technology teacher that loves to ti
 A list of ideas and projects in progress can be found here:  
 https://github.com/johan-m-o/ToDoList
 
+Designs for 3D-printing will be published on Printables:
+https://www.printables.com/social/448373-johan
+
 I'm also on <a rel="me" href="https://mastodon.nu/@johan_m_o">Mastodon</a>.
