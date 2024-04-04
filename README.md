@@ -1,4 +1,4 @@
-Hi, I'm Johan and I am a soon to be math and technology teacher that loves to tinker. This is where you'll find some of my projects.
+Hi, I'm Johan and I am a math and technology teacher that loves to tinker. You'll find some of my projects on <a rel="me" href="https://codeberg.org/johan-m-o">Codeberg</a>.  
 
 A list of ideas and projects in progress can be found here:  
 https://codeberg.org/johan-m-o/ToDoList
